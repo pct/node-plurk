@@ -12,7 +12,7 @@
         "web": "https://github.com/pH-minamo/node-plurk"
     },
     "dependencies": {
-        "oauth": "0.9.8"
+        "oauth": "0.9.15"
     },
     "main": "index.js",
     "licenses": [{
