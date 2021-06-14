@@ -1,3 +1,5 @@
+# NOTICE: use https://github.com/parshap/node-libs-react-native to fit react-native
+
 # node-plurk #
 
 Easy-to-use library for [Plurk API 2.0][API]. Parses JSON data automatically and handles comet channel.
